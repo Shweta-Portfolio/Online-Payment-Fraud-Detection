@@ -6,7 +6,7 @@ This project analyzes a large online transaction dataset and builds machine lear
 - Name: Online Payments Fraud Detection (Kaggle)
 - Columns (10):
   - `step`, `type`, `amount`, `nameOrig`, `oldbalanceOrg`, `newbalanceOrig`, `nameDest`, `oldbalanceDest`, `newbalanceDest`, `isFraud`
-- Link: `https://www.kaggle.com/datasets/jainilcoder/online-payments-fraud-detection`
+- Link: `https://drive.google.com/file/d/133E0TDrfIjnhwRoGTw9OEozwBXUL38D8/view`
 - Local file expected by the notebook: `new_file.csv` in the project root.
 
 ### Repository Contents
